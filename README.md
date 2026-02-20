@@ -4,8 +4,7 @@
 
 ### Name: Saloni Khare
 ### Enrollment No: 0103AL231177
-### Course: B.Tech CSE
-### Subject: Data Structures
+### Course: B.Tech CSE-AIML
 
 ---
 
