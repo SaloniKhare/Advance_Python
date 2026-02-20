@@ -351,6 +351,7 @@ def prodArr(nums):
   return ans
 nums=[1,2,3,4]
 print("Product of array is",prodArr(nums))
+
 #31. Find Equilibrium Index: Find an index such that sum of elements on left = sum on right.
 def addArr(nums):
   tsum=sum(nums)
@@ -395,3 +396,4 @@ def maxDiff(arr):
     return madiff
 nums = [2, 3, 10, 6, 4, 8, 1]
 print("Maximum difference is", maxDiff(nums))
+
